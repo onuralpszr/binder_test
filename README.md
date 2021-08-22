@@ -1,2 +1,7 @@
-# numpy_binder_test
-numpy_binder_test
+# Basic Binder Test
+
+## Testing 
+
+* Numpy
+* Matplotlib
+* OpenCV
